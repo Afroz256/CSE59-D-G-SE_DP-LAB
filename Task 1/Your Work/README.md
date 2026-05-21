@@ -233,7 +233,7 @@ The Student Management System is a standalone web application that may integrate
 
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 >
->   <img src="images/ER.png>
+>   <img src="images/ER.png">
 
 > * **STATE DIAGRAM**
 >
