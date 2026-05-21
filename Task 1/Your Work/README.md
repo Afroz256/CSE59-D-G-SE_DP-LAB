@@ -212,34 +212,11 @@ The Student Management System is a standalone web application that may integrate
 ---
 
 # 4. System Models
-
-> * **CONTEXT DIAGRAM**
->
->   <img src="images/context-diagram.png" alt="Context Diagram">
-
-> * **ACTIVITY DIAGRAM**
->
->   <img src="images/activity-diagram.png" alt="Activity Diagram">
-
-> * **USE CASE DIAGRAMS**
->
->   <img src="images/use-case-diagram-1.png" alt="Use Case Diagram 1">  
-
-<img src="images/use-case-diagram-2.png" alt="Use Case Diagram 2">
-
-> * **SEQUENCE DIAGRAM**
->
->   <img src="images/sequence-diagram.png" alt="Sequence Diagram">
-
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 >
 >   <img src="images/ER.png">
 
-> * **STATE DIAGRAM**
->
->   <img src="images/state-diagram.png" alt="State Diagram">
 
----
 
 # 5. System Evolution
 
